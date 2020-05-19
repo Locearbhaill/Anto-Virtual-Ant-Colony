@@ -1,0 +1,50 @@
+School of Computing
+CA326 Year 3 Project Proposal Form
+SECTION A
+Project Title: Virtual Ant Colony
+Student 1 Name ___Alex Cahill______ ID Number  15321711
+Student 2 Name ____Liam O Cearbhaill____________ ID Number 15384941 
+
+Staff Member Consulted _____Dr. Alastair Sutherland________ 
+
+Project Description (1-2 pages):
+The aim of this project is to model a virtual ant colony in which the ants behave like real life ants in which they carry out various 
+activities vital to the colony such as collecting food, removing rubbish, defending the colony, looking after the young and building the colony. 
+Ants leave a pheromone trail behind them which indicates the activity they are involved in. If an Ant detects many of the same activity it 
+will decide to switch to an activity that has fewer ants and thus naturally maintain equality throughout all activities. 
+Theoretically the whole system will be self-organising and complex structures should emerge after leaving the 
+simulation running potentially overnight or over the course of a few days. 
+
+There will be different types of ants which will choose between a set of jobs completable by certain ants. 
+Scout ants will search an area for food and other resources valuable to the colony. Worker ants will carry 
+those resources to the colony to be used in a variety of manners. Worker ants will also look after the 
+colony’s young and maintain the state of the colony. Soldier ants will defend the colony from foreign ants 
+who may choose to invade. Drone ants will be spawned to mate and replenish the numbers in the colony. 
+The queen ant is the centre of the colony and ultimately is the heart of the colony, she produces the eggs which will 
+replenish the population of the colony. Unfertilized eggs produce male Drone ants, fertilized eggs may produce a wide range of ants.
+
+An element to be considered for the artificial intelligence controlling the individual ants is the ability to “evolve” or 
+adapt to new situations such as an increase or decrease in food. This would allow them to continue to operate at maximum 
+efficiency despite the change in environment. This will probably involve creating an in depth neural network with the ability to 
+decide which tasks to perform based on counting the pheromone trails left by other ants. 
+
+
+
+
+
+Programming Languages:
+-Java,C?
+
+Programming tools:
+-IDLE
+-Sublime Text
+-Github
+-(Unity?)
+
+Learning Challenges:
+-Possible development on mobile devices 
+-Ant Colony Algorithm
+-Neural Networks
+
+Hardware/Software platform:
+-Windows/Linux 
